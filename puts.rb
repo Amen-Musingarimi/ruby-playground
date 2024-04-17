@@ -7,3 +7,8 @@ greeting = "Hello World (from the variable)"
 puts greeting
 
 #------ Method-----------
+def say_hello(things_to_say)
+  puts things_to_say
+end
+
+say_hello "Hello Amen"
