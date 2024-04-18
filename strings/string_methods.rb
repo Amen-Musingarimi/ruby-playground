@@ -64,3 +64,8 @@ puts name.start_with?("amen")
 # Checks if the string ends with a specified suffix.
 puts "--------- End_with? String Method ---------"
 puts name.end_with?("takudzwa")
+
+# ----------- INDEX -------------
+# Returns the index of the first occurrence of a specified substring in the string, or nil if not found.
+puts "--------- Index String Method ---------"
+puts name.index("a")
