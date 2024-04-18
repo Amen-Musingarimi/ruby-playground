@@ -47,7 +47,7 @@ puts name.split(" ")
 
 # ----------- CONCAT -------------
 # Concatenates another string to the end of the original string.
-puts "--------- Concat String Method ---------"
+puts "--------- Concat (<<) String Method ---------"
 puts name.concat(" musingarimi")
 
 # ----------- EMPTY -------------
