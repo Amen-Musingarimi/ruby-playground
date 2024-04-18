@@ -19,3 +19,8 @@ puts name.downcase
 # Reverses the characters in the string.
 puts "--------- Reverse String Method ---------"
 puts name.reverse
+
+# ----------- LENGTH -------------
+# Returns the length of the string.
+puts "--------- Length String Method ---------"
+puts name.length
