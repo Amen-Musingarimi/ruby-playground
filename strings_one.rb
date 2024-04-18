@@ -4,9 +4,9 @@
 # When you concatenate strings, you essentially append one string to the end of another, 
 # creating a longer string that contains the combined contents of the original strings.
 
-sentence_name = "My name is Amen" # using double quotes
-sentence_surname = 'My lastname is Musingarimi' # using double quotes
-puts sentence_name
-puts sentence_surname
+first_name = "Amen" # using double quotes
+last_name = 'Musingarimi' # using double quotes
+full_name = first_name + ' ' + last_name
+puts full_name
 
 #---------------String interpolation -----------------
