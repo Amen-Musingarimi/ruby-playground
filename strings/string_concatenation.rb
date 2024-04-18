@@ -9,4 +9,3 @@ last_name = 'Musingarimi' # using double quotes
 full_name = first_name + ' ' + last_name
 puts full_name
 
-#---------------String interpolation -----------------
