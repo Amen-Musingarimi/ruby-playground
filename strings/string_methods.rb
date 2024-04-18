@@ -29,3 +29,8 @@ puts name.length
 # Removes leading and trailing whitespace from the string.
 puts "--------- Strip String Method ---------"
 puts name.strip
+
+# ----------- SUB -------------
+# Replaces occurrences of a specified substring with another string.
+puts "--------- Sub String Method ---------"
+puts name.sub("amen", "takudzwa")
