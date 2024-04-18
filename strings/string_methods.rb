@@ -24,3 +24,8 @@ puts name.reverse
 # Returns the length of the string.
 puts "--------- Length String Method ---------"
 puts name.length
+
+# ----------- STRIP -------------
+# Removes leading and trailing whitespace from the string.
+puts "--------- Strip String Method ---------"
+puts name.strip
