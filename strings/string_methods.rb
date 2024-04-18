@@ -44,3 +44,13 @@ puts name.include?("amen")
 # Splits the string into an array of substrings based on a delimiter.
 puts "--------- Split String Method ---------"
 puts name.split(" ")
+
+# ----------- CONCAT -------------
+# Concatenates another string to the end of the original string.
+puts "--------- Concat String Method ---------"
+puts name.concat(" musingarimi")
+
+# ----------- EMPTY -------------
+# Checks if the string is empty.
+puts "--------- Empty String Method ---------"
+puts name.empty?
