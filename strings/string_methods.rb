@@ -9,3 +9,8 @@ puts name.capitalize
 # Converts all characters in the string to uppercase.
 puts "--------- Upcase String Method ---------"
 puts name.upcase
+
+# ----------- DOWNCASE -------------
+# Converts all characters in the string to lowercase.
+puts "--------- Downcase String Method ---------"
+puts name.downcase
