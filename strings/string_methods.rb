@@ -35,7 +35,7 @@ puts name.strip
 puts "--------- Sub String Method ---------"
 puts name.sub("amen", "takudzwa")
 
-# ----------- INCLUDE -------------
+# ----------- INCLUDE? -------------
 # Checks if a substring is present in the string.
 puts "--------- Include String Method ---------"
 puts name.include?("amen")
@@ -54,3 +54,8 @@ puts name.concat(" musingarimi")
 # Checks if the string is empty.
 puts "--------- Empty String Method ---------"
 puts name.empty?
+
+# ----------- START_WITH? -------------
+# Checks if the string starts with a specified prefix.
+puts "--------- Start_with? String Method ---------"
+puts name.start_with?("amen")
