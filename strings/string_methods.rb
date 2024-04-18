@@ -39,3 +39,8 @@ puts name.sub("amen", "takudzwa")
 # Checks if a substring is present in the string.
 puts "--------- Include String Method ---------"
 puts name.include?("amen")
+
+# ----------- SPLIT -------------
+# Splits the string into an array of substrings based on a delimiter.
+puts "--------- Split String Method ---------"
+puts name.split(" ")
