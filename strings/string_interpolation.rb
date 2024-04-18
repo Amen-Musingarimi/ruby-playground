@@ -10,3 +10,4 @@ first_name = "Amen"
 last_name = 'Musingarimi' 
 sentence = "My name is #{first_name} and my last name is #{last_name}."
 puts sentence
+puts last_name.class
