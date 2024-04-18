@@ -59,3 +59,8 @@ puts name.empty?
 # Checks if the string starts with a specified prefix.
 puts "--------- Start_with? String Method ---------"
 puts name.start_with?("amen")
+
+# ----------- END_WITH? -------------
+# Checks if the string ends with a specified suffix.
+puts "--------- End_with? String Method ---------"
+puts name.end_with?("takudzwa")
