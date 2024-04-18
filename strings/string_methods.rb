@@ -69,3 +69,8 @@ puts name.end_with?("takudzwa")
 # Returns the index of the first occurrence of a specified substring in the string, or nil if not found.
 puts "--------- Index String Method ---------"
 puts name.index("a")
+
+# ----------- SLICE -------------
+# Extracts a substring from the string based on the given range or index.
+puts "--------- Slice String Method ---------"
+puts name.slice(0..4)
