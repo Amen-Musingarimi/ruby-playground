@@ -34,3 +34,8 @@ puts name.strip
 # Replaces occurrences of a specified substring with another string.
 puts "--------- Sub String Method ---------"
 puts name.sub("amen", "takudzwa")
+
+# ----------- INCLUDE -------------
+# Checks if a substring is present in the string.
+puts "--------- Include String Method ---------"
+puts name.include?("amen")
