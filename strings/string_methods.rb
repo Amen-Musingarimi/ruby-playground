@@ -14,3 +14,8 @@ puts name.upcase
 # Converts all characters in the string to lowercase.
 puts "--------- Downcase String Method ---------"
 puts name.downcase
+
+# ----------- REVERSE -------------
+# Reverses the characters in the string.
+puts "--------- Reverse String Method ---------"
+puts name.reverse
